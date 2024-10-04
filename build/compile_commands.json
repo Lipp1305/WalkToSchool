@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/simonlippitt/Documents/graph/WTS/build",
+  "command": "/usr/bin/clang  -I/Users/simonlippitt/Documents/graph/WTS/include -g -std=gnu99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/wts.dir/src/main.c.o -c /Users/simonlippitt/Documents/graph/WTS/src/main.c",
+  "file": "/Users/simonlippitt/Documents/graph/WTS/src/main.c",
+  "output": "CMakeFiles/wts.dir/src/main.c.o"
+},
+{
+  "directory": "/Users/simonlippitt/Documents/graph/WTS/build",
+  "command": "/usr/bin/clang  -I/Users/simonlippitt/Documents/graph/WTS/include -g -std=gnu99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/wts.dir/src/dijkstra.c.o -c /Users/simonlippitt/Documents/graph/WTS/src/dijkstra.c",
+  "file": "/Users/simonlippitt/Documents/graph/WTS/src/dijkstra.c",
+  "output": "CMakeFiles/wts.dir/src/dijkstra.c.o"
+}
+]

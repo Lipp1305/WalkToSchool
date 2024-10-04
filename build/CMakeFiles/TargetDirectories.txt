@@ -1,0 +1,3 @@
+/Users/simonlippitt/Documents/graph/WTS/build/CMakeFiles/wts.dir
+/Users/simonlippitt/Documents/graph/WTS/build/CMakeFiles/edit_cache.dir
+/Users/simonlippitt/Documents/graph/WTS/build/CMakeFiles/rebuild_cache.dir
